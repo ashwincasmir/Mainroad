@@ -1,4 +1,4 @@
-baseurl = "https://ashwincasmir.netlify.com"
+baseurl = "https://ashwincasmir.netlify.app"
 title = "Mainroad"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
